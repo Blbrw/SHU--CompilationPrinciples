@@ -1,0 +1,18 @@
+const a = 10, b = 20;
+var c, iiI;
+begin
+    iiI := 1;
+    c :=0;
+    while iiI <= a do
+        begin
+            c := c + 1;
+            iiI :=iiI + 1;
+        end;
+    iiI:=1;
+    while iiI <= b do
+        begin
+            c:= c + 1;
+            iiI:= iiI +1;
+        end;
+    write(c);
+end.

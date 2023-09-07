@@ -1,0 +1,15 @@
+const n = 10;
+var i, a, b, c;
+begin
+    a := 0;
+    b := 1;
+    i := 1;
+    while i <= n do
+        begin
+            write(b);
+            c := a + b;
+            a := b;
+            b := c;
+            i := i + 1;
+        end;
+end.

@@ -1,0 +1,6 @@
+(plus,	+)
+(ident,	a_c)
+(plus,	+)
+(ident,	b)
+(plus,	*)
+(rparen,	))

@@ -1,0 +1,7 @@
+(ident,	b)
+(times,	*)
+(ident,	b)
+(times,	*)
+(lparen,	()
+(ident,	num)
+(rparen,	))

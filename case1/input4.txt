@@ -1,0 +1,16 @@
+const n = 9;
+var i, j, k;
+begin
+    i := 1;
+    while i <= n do
+        begin
+            j:=1;
+            while j<= i do
+                begin
+                    k:=j * i;
+                    write(j,i,k);
+                    j := j + 1;
+                end;
+            i := i + 1;
+        end;
+end.

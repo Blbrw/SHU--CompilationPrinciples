@@ -1,0 +1,8 @@
+(lparen,	()
+(ident,	num)
+(lparen,	()
+(ident,	j)
+(leq,	<=)
+(ident,	i)
+(rparen,	))
+(rparen,	))

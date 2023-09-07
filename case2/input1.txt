@@ -1,0 +1,11 @@
+var Num1,f1;
+begin
+    read(num);
+    f1:=1;
+    while num>0 do
+        begin
+            f1 :=f1 *num;
+            num := num - 1;
+        end;
+    write(f1);
+end.

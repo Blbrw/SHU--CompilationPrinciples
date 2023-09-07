@@ -1,0 +1,6 @@
+(ident,	j)
+(times,	*)
+(ident,	45)
+(times,	*)
+(number, i6)
+(ident,	i)

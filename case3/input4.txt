@@ -1,0 +1,4 @@
+(lparen,	()
+(ident,	csd)
+(plus,	+)
+(number,	15)

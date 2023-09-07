@@ -1,0 +1,6 @@
+const a_c =10, b= 20;
+var c ;
+begin
+    c := a_c+ b;
+    write(c);
+end.
